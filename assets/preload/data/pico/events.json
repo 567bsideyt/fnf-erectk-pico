@@ -1,0 +1,528 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "philly",
+		"player1": "bf",
+		"player2": "pico",
+		"events": [
+			[
+				89906.25,
+				[
+					[
+						"Philly Glow",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				90562.5,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				91125,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				91687.5,
+				[
+					[
+						"BG Freaks Expression",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				92812.5,
+				[
+					[
+						"BG Freaks Expression",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Philly Glow",
+						"1",
+						""
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				93562.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				94125,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				94687.5,
+				[
+					[
+						"BG Freaks Expression",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				95906.25,
+				[
+					[
+						"BG Freaks Expression",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"1",
+						""
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				96562.5,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				97125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				97687.5,
+				[
+					[
+						"BG Freaks Expression",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				98812.5,
+				[
+					[
+						"BG Freaks Expression",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Philly Glow",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				99562.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				100125,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				100687.5,
+				[
+					[
+						"BG Freaks Expression",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				101812.5,
+				[
+					[
+						"BG Freaks Expression",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"1",
+						""
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				102562.5,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				103125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Philly Glow",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				105562.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				106125,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				108562.5,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				109125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Philly Glow",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				111562.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					],
+					[
+						"Philly Glow",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				112125,
+				[
+					[
+						"Philly Glow",
+						"2",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				112687.5,
+				[
+					[
+						"BG Freaks Expression",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				113812.5,
+				[
+					[
+						"BG Freaks Expression",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Philly Glow",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pico"
+	}
+}
