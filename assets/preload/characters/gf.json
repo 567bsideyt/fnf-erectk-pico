@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				3,
-				0
+				0,
+				-6
 			],
 			"fps": 24,
 			"anim": "cheer",
@@ -15,7 +15,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-19
+				-5
 			],
 			"fps": 24,
 			"anim": "singLEFT",
@@ -26,7 +26,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-20
+				-4
 			],
 			"fps": 24,
 			"anim": "singDOWN",
@@ -37,7 +37,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				4
+				14
 			],
 			"fps": 24,
 			"anim": "singUP",
@@ -48,7 +48,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-20
+				-14
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-2,
-				-21
+				-4,
+				-17
 			],
 			"fps": 24,
 			"anim": "sad",
@@ -138,8 +138,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				45,
-				-8
+				1,
+				10
 			],
 			"fps": 24,
 			"anim": "hairBlow",
@@ -178,8 +178,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				-2,
-				-17
+				-3,
+				0
 			],
 			"fps": 24,
 			"anim": "scared",
@@ -188,7 +188,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/erect_gf",
 	"position": [
 		0,
 		0
@@ -196,9 +196,9 @@
 	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		120,
+		35,
+		97
 	],
 	"camera_position": [
 		0,
